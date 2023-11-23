@@ -1,0 +1,19 @@
+{
+  "name": "userregistrationoauthjwt",
+  "version": "1.0.0",
+  "description": "userregistrationoauthjwt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddivahed/userregistrationoauthjwt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddivahed/userregistrationoauthjwt/issues"
+  },
+  "homepage": "https://github.com/eddivahed/userregistrationoauthjwt#readme"
+}
